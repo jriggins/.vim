@@ -1,0 +1,16 @@
+set guifont=Menlo\ Regular:h15
+
+set shell=/bin/sh
+
+let g:miniBufExplMapWindowNavVim = 1 
+let g:miniBufExplMapWindowNavArrows = 1 
+let g:miniBufExplMapCTabSwitchBufs = 1 
+let g:miniBufExplModSelTarget = 1 
+
+" Mappings
+" Search on visual selection
+:vmap s y/<C-R>"<CR>
+
+" autocmd BufEnter * Rvm
+
+
