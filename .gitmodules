@@ -25,3 +25,12 @@
 [submodule "bundle/vividchalk"]
 	path = bundle/vividchalk
 	url = https://github.com/tpope/vim-vividchalk.git
+[submodule "bundle/color-sampler"]
+	path = bundle/color-sampler
+	url = git://github.com/vim-scripts/Color-Sampler-Pack.git
+[submodule "bundle/ir_black"]
+	path = bundle/ir_black
+	url = https://github.com/wgibbs/vim-irblack.git
+[submodule "bundle/gundo"]
+	path = bundle/gundo
+	url = https://github.com/vim-scripts/Gundo.git
