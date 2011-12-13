@@ -2,13 +2,13 @@
 	path = bundle/fugitive
 	url = http://github.com/tpope/vim-fugitive.git
 [submodule "bundle/vim-rails"]
-	path = vim-rails
+	path = bundle/vim-rails
 	url = https://github.com/tpope/vim-rails.git
 [submodule "bundle/Command-T"]
 	path = Command-T
 	url = https://github.com/wincent/Command-T.git
 [submodule "bundle/vim-surround"]
-	path = vim-surround
+	path = bundle/vim-surround
 	url = https://github.com/tpope/vim-surround.git
 [submodule "bundle/vim-rvm"]
 	path = bundle/vim-rvm
