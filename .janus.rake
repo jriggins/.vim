@@ -7,4 +7,5 @@ vim_plugin_task "groovy" do
     file << "au BufNewFile,BufRead *.groovy        setf groovy"
   end
 end
+vim_plugin_task "vim-ruby-debugger", "git://github.com/astashov/vim-ruby-debugger.git"
 
